@@ -7,7 +7,7 @@ const about = {
   name: 'Nico Vicinanza',
   role: 'Front End Engineer',
   description:
-    'Im a highly energized, hardworking, diligent, and a leader. Every job I do I give 100% because I love setting an example for others and I love helping others be successful. Years of being a customer focused individual has taught me the huge importance of each and every client.',
+    'Engaged and resourceful professional with strong capabilities and experience in managing people, projects, and processes. Customer focused with excellent oral and written communication skills. Adaptable to a variety of environments and interacts effectively and professionally with multiple departments and various stakeholders.',
   resume: 'https://docs.google.com/document/d/1O2Udfw-Lx3b_tYhBdHmpfUhN67soet7z/edit?usp=sharing&ouid=109315098127156025144&rtpof=true&sd=true',
   social: {
     linkedin: 'https://www.linkedin.com/in/nicolas-vicinanza-b49491161/',
@@ -30,7 +30,7 @@ const projects = [
       'Know Mow Worries is a website where freelancers for yard work can post hiring ads and clientele can find freelancers in their local area to hire for yard work.',
     stack: ['Node.js', 'Express', 'SQL'],
     sourceCode: 'https://github.com/nvici/KnowMowWorries',
-    livePreview: 'https://blooming-eyrie-03886.herokuapp.com/',
+    livePreview: 'https://knowmowworries.onrender.com/',
   },
   {
     name: 'Shoe Marketplace',
